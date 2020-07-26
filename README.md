@@ -1,5 +1,4 @@
 
----
 <div align="center" >
 
 <h2>
@@ -7,8 +6,6 @@
 Oh hi there... :penguin:
 
 </h2>
-
-
 <div align="center">
 
 Visitor Count
@@ -18,6 +15,3 @@ Visitor Count
 </div>
 
 </div>
-
----
-
