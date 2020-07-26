@@ -1,14 +1,15 @@
 
+---
+<div align="center" >
 
-<div align="center" style="background-color: rgb(255, 200, 159); height: 200px;">
-
-<h3>
+<h2>
 
 Oh hi there... :penguin:
 
-</h3>
+</h2>
 
-<div align="center" style="margin: 60px">
+
+<div align="center">
 
 Visitor Count
 
@@ -17,4 +18,6 @@ Visitor Count
 </div>
 
 </div>
+
+---
 
